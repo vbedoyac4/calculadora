@@ -1,0 +1,18 @@
+.boton {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #3269B7;
+    color: #fff;
+    outline: 1px solid #888;
+  }
+  .operator {
+    background-color: #fff;
+    color: #3269B7;
+    font-weight: bold;
+  }
+  
